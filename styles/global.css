@@ -36,52 +36,52 @@ img {
 button {
   font: inherit;
 }
-.font-small-normal{
+.font-small-normal {
   font-family: Raleway;
   font-size: 18px;
   font-weight: normal;
 }
-.font-mid-bold{
+.font-mid-bold {
   font-family: Raleway;
   font-size: 22px;
   font-weight: normal;
 }
-.font-mid-normal{
+.font-mid-normal {
   font-family: Raleway;
   font-size: 22px;
   font-weight: normal;
 }
-.color-primary-black{
+.color-primary-black {
   color: #000;
 }
-.color-primary-white{
+.color-primary-white {
   color: #FFF
 }
-.flex{
+.flex {
   display: flex;
 }
-.flex-col{
+.flex-col {
   display: flex;
   flex-direction: column;
 }
-.w-full{
+.w-full {
   width: 100%;
 }
-.list-none{
+.list-none {
   list-style: none;
 }
-.list-circle{
+.list-circle {
   list-style: circle;
 }
-.transform-uppercase{
+.transform-uppercase {
   text-transform: uppercase;
 }
-.letter-spacing-accent-large{
+.letter-spacing-accent-large {
   letter-spacing: 24px;
 }
-.letter-spacing-accent-mid{
+.letter-spacing-accent-mid {
   letter-spacing: 20px;
 }
-.letter-spacing-accent-low{
+.letter-spacing-accent-low {
   letter-spacing: 17px;
 }
