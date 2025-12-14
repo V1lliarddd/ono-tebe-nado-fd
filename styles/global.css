@@ -37,17 +37,14 @@ button {
   font: inherit;
 }
 .font-small-normal {
-  font-family: Raleway;
   font-size: 18px;
   font-weight: normal;
 }
 .font-mid-bold {
-  font-family: Raleway;
   font-size: 22px;
   font-weight: normal;
 }
 .font-mid-normal {
-  font-family: Raleway;
   font-size: 22px;
   font-weight: normal;
 }
